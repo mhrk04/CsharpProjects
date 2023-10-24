@@ -1,0 +1,14 @@
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value-test\obj\Debug\net7.0\csharp-return-value-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value-test\obj\Debug\net7.0\csharp-return-value-test.AssemblyInfoInputs.cache
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value-test\obj\Debug\net7.0\csharp-return-value-test.AssemblyInfo.cs
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value-test\obj\Debug\net7.0\csharp-return-value-test.csproj.CoreCompileInputs.cache
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value-test\bin\Debug\net7.0\csharp-return-value-test.exe
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value-test\bin\Debug\net7.0\csharp-return-value-test.deps.json
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value-test\bin\Debug\net7.0\csharp-return-value-test.runtimeconfig.json
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value-test\bin\Debug\net7.0\csharp-return-value-test.dll
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value-test\bin\Debug\net7.0\csharp-return-value-test.pdb
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value-test\obj\Debug\net7.0\csharp-return-value-test.dll
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value-test\obj\Debug\net7.0\refint\csharp-return-value-test.dll
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value-test\obj\Debug\net7.0\csharp-return-value-test.pdb
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value-test\obj\Debug\net7.0\csharp-return-value-test.genruntimeconfig.cache
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value-test\obj\Debug\net7.0\ref\csharp-return-value-test.dll

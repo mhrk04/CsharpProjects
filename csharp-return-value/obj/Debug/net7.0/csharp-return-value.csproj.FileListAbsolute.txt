@@ -1,0 +1,14 @@
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value\bin\Debug\net7.0\csharp-return-value.exe
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value\bin\Debug\net7.0\csharp-return-value.deps.json
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value\bin\Debug\net7.0\csharp-return-value.runtimeconfig.json
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value\bin\Debug\net7.0\csharp-return-value.dll
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value\bin\Debug\net7.0\csharp-return-value.pdb
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value\obj\Debug\net7.0\csharp-return-value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value\obj\Debug\net7.0\csharp-return-value.AssemblyInfoInputs.cache
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value\obj\Debug\net7.0\csharp-return-value.AssemblyInfo.cs
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value\obj\Debug\net7.0\csharp-return-value.csproj.CoreCompileInputs.cache
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value\obj\Debug\net7.0\csharp-return-value.dll
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value\obj\Debug\net7.0\refint\csharp-return-value.dll
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value\obj\Debug\net7.0\csharp-return-value.pdb
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value\obj\Debug\net7.0\csharp-return-value.genruntimeconfig.cache
+C:\Users\haziq\Desktop\CsharpProjects\csharp-return-value\obj\Debug\net7.0\ref\csharp-return-value.dll

@@ -1,0 +1,14 @@
+C:\Users\haziq\Desktop\CsharpProjects\3-exercise-if-else\bin\Debug\net7.0\3-exercise-if-else.exe
+C:\Users\haziq\Desktop\CsharpProjects\3-exercise-if-else\bin\Debug\net7.0\3-exercise-if-else.deps.json
+C:\Users\haziq\Desktop\CsharpProjects\3-exercise-if-else\bin\Debug\net7.0\3-exercise-if-else.runtimeconfig.json
+C:\Users\haziq\Desktop\CsharpProjects\3-exercise-if-else\bin\Debug\net7.0\3-exercise-if-else.dll
+C:\Users\haziq\Desktop\CsharpProjects\3-exercise-if-else\bin\Debug\net7.0\3-exercise-if-else.pdb
+C:\Users\haziq\Desktop\CsharpProjects\3-exercise-if-else\obj\Debug\net7.0\3-exercise-if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haziq\Desktop\CsharpProjects\3-exercise-if-else\obj\Debug\net7.0\3-exercise-if-else.AssemblyInfoInputs.cache
+C:\Users\haziq\Desktop\CsharpProjects\3-exercise-if-else\obj\Debug\net7.0\3-exercise-if-else.AssemblyInfo.cs
+C:\Users\haziq\Desktop\CsharpProjects\3-exercise-if-else\obj\Debug\net7.0\3-exercise-if-else.csproj.CoreCompileInputs.cache
+C:\Users\haziq\Desktop\CsharpProjects\3-exercise-if-else\obj\Debug\net7.0\3-exercise-if-else.dll
+C:\Users\haziq\Desktop\CsharpProjects\3-exercise-if-else\obj\Debug\net7.0\refint\3-exercise-if-else.dll
+C:\Users\haziq\Desktop\CsharpProjects\3-exercise-if-else\obj\Debug\net7.0\3-exercise-if-else.pdb
+C:\Users\haziq\Desktop\CsharpProjects\3-exercise-if-else\obj\Debug\net7.0\3-exercise-if-else.genruntimeconfig.cache
+C:\Users\haziq\Desktop\CsharpProjects\3-exercise-if-else\obj\Debug\net7.0\ref\3-exercise-if-else.dll

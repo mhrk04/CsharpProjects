@@ -1,0 +1,14 @@
+C:\Users\haziq\Desktop\CsharpProjects\2-exercise-if\bin\Debug\net7.0\2-exercise-if.exe
+C:\Users\haziq\Desktop\CsharpProjects\2-exercise-if\bin\Debug\net7.0\2-exercise-if.deps.json
+C:\Users\haziq\Desktop\CsharpProjects\2-exercise-if\bin\Debug\net7.0\2-exercise-if.runtimeconfig.json
+C:\Users\haziq\Desktop\CsharpProjects\2-exercise-if\bin\Debug\net7.0\2-exercise-if.dll
+C:\Users\haziq\Desktop\CsharpProjects\2-exercise-if\bin\Debug\net7.0\2-exercise-if.pdb
+C:\Users\haziq\Desktop\CsharpProjects\2-exercise-if\obj\Debug\net7.0\2-exercise-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haziq\Desktop\CsharpProjects\2-exercise-if\obj\Debug\net7.0\2-exercise-if.AssemblyInfoInputs.cache
+C:\Users\haziq\Desktop\CsharpProjects\2-exercise-if\obj\Debug\net7.0\2-exercise-if.AssemblyInfo.cs
+C:\Users\haziq\Desktop\CsharpProjects\2-exercise-if\obj\Debug\net7.0\2-exercise-if.csproj.CoreCompileInputs.cache
+C:\Users\haziq\Desktop\CsharpProjects\2-exercise-if\obj\Debug\net7.0\2-exercise-if.dll
+C:\Users\haziq\Desktop\CsharpProjects\2-exercise-if\obj\Debug\net7.0\refint\2-exercise-if.dll
+C:\Users\haziq\Desktop\CsharpProjects\2-exercise-if\obj\Debug\net7.0\2-exercise-if.pdb
+C:\Users\haziq\Desktop\CsharpProjects\2-exercise-if\obj\Debug\net7.0\2-exercise-if.genruntimeconfig.cache
+C:\Users\haziq\Desktop\CsharpProjects\2-exercise-if\obj\Debug\net7.0\ref\2-exercise-if.dll

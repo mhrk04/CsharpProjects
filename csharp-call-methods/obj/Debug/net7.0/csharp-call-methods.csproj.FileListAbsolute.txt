@@ -1,0 +1,14 @@
+C:\Users\haziq\Desktop\CsharpProjects\csharp-call-methods\bin\Debug\net7.0\csharp-call-methods.exe
+C:\Users\haziq\Desktop\CsharpProjects\csharp-call-methods\bin\Debug\net7.0\csharp-call-methods.deps.json
+C:\Users\haziq\Desktop\CsharpProjects\csharp-call-methods\bin\Debug\net7.0\csharp-call-methods.runtimeconfig.json
+C:\Users\haziq\Desktop\CsharpProjects\csharp-call-methods\bin\Debug\net7.0\csharp-call-methods.dll
+C:\Users\haziq\Desktop\CsharpProjects\csharp-call-methods\bin\Debug\net7.0\csharp-call-methods.pdb
+C:\Users\haziq\Desktop\CsharpProjects\csharp-call-methods\obj\Debug\net7.0\csharp-call-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haziq\Desktop\CsharpProjects\csharp-call-methods\obj\Debug\net7.0\csharp-call-methods.AssemblyInfoInputs.cache
+C:\Users\haziq\Desktop\CsharpProjects\csharp-call-methods\obj\Debug\net7.0\csharp-call-methods.AssemblyInfo.cs
+C:\Users\haziq\Desktop\CsharpProjects\csharp-call-methods\obj\Debug\net7.0\csharp-call-methods.csproj.CoreCompileInputs.cache
+C:\Users\haziq\Desktop\CsharpProjects\csharp-call-methods\obj\Debug\net7.0\csharp-call-methods.dll
+C:\Users\haziq\Desktop\CsharpProjects\csharp-call-methods\obj\Debug\net7.0\refint\csharp-call-methods.dll
+C:\Users\haziq\Desktop\CsharpProjects\csharp-call-methods\obj\Debug\net7.0\csharp-call-methods.pdb
+C:\Users\haziq\Desktop\CsharpProjects\csharp-call-methods\obj\Debug\net7.0\csharp-call-methods.genruntimeconfig.cache
+C:\Users\haziq\Desktop\CsharpProjects\csharp-call-methods\obj\Debug\net7.0\ref\csharp-call-methods.dll
